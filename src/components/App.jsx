@@ -1,5 +1,5 @@
 import React from "react"; 
-import Imput from './Article';
+import Imput from './Input';
 import './style.css';
 
 
